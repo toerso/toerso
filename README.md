@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am toerso. A passionate software developer from Bangladesh</h2>
+<h2 align="left">Hi 👋! I am toerso. A passionate software engineer from Bangladesh</h2>
 
 ###
 
